@@ -1,1 +1,1 @@
-# hockey-project
+# Migthy Ducks Hockey League
